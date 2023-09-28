@@ -1,0 +1,76 @@
+body {
+    background-color: #343434;
+    text-align: center;
+}
+
+
+/* Title */
+
+#title {
+}
+
+.title-heading {
+    font-family: "Lobster", cursive;
+    font-size: 9.5rem;
+    font-weight: bold;
+}
+
+/* Dice */
+
+#player-dice {
+}
+
+.player-name {
+    font-family: "Indie Flower", cursive;
+}
+
+.player-dice-cell {
+    margin: 5rem auto 5rem;
+}
+
+/* Both */
+.text-green {
+    color: #62A388;
+}
+
+.text-white {
+    color: #fff;
+}
+
+.container {
+    margin: 3.5rem;
+}
+
+.win-tag {
+    color: red;
+    font-family: "Lobster";
+    font-size: 4rem;
+}
+
+.invisible {
+    visibility: hidden;
+}
+
+.flag-img {
+    width: 7rem;
+    height: auto;
+    font-size: 1rem;
+}
+/* Footer */
+
+#footer {
+}
+
+.footer-icon {
+    padding: 1rem 0.5rem 1rem;
+}
+
+.footer-link {
+    color: #fff;
+}
+
+.footer-link :hover {
+    color: #62A388;
+}
+
+
